@@ -54,7 +54,7 @@ $$A_t=arg max_{a}[Q(a)+c\sqrt{\frac{log t}{N(a)}}]$$
 
 其中：
 
-+ $  c  $   是控制探索强度的常数
++ $c$   是控制探索强度的常数
 
 ## Thompson Sampling（贝叶斯视角）
 
