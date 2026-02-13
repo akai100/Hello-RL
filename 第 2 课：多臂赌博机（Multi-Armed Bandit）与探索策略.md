@@ -38,7 +38,7 @@
 
   + 公式：
 
-$$$P(a)=\frac{exp(Q(a)/\tau}{\sum_{a'}{exp(Q(a')/\tau)}}$
+$$P(a)=\frac{exp(Q(a)/\tau}{\sum_{a'}{exp(Q(a')/\tau)}}$$
 
 其中：
 
